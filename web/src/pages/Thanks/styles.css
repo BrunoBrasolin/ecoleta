@@ -1,0 +1,19 @@
+#page-thanks {
+  background-color: black;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#page-thanks svg {
+  color: #34cb29;
+  margin-bottom: 0.5rem;
+}
+
+#page-thanks h1 {
+  color: white;
+  margin-top: 0.5rem;
+}
